@@ -1,0 +1,7 @@
+﻿Nombre de usuario: entrenamiento
+Contraseña: Temporal1
+Nombre de la aplicación: WDE_Famisanar
+Host/Configuración: 172.27.48.175
+Puerto: 2020
+
+Lugar: Famisanar_29048
